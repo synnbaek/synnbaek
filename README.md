@@ -96,6 +96,7 @@
 🌐 Portfolio: **synnbaek**  
 
 
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=synnbaek&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/synnbaek"
@@ -103,6 +104,7 @@
     height="120"
   />
 </a>
+  
   
 <!--
 **synnbaek/synnbaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
